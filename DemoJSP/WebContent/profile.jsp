@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+ 
 	<%
 	    String URL = "jdbc:oracle:thin:@localhost:1521:orcl";
 		
