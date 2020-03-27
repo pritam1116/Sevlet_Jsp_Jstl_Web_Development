@@ -1,0 +1,1 @@
+select *from student where Roll_Num=100
